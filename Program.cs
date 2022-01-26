@@ -31,7 +31,7 @@ namespace ProjetoCRUD {
                         break;
 
                     case "5":
-                        VizualizarFilme();                        
+                        VisualizarFilme();                        
                         break;
                     
                     //Escolhas dos métodos da Série//
@@ -92,7 +92,7 @@ namespace ProjetoCRUD {
                 System.Console.WriteLine("2- Inserir novo Filme");
                 System.Console.WriteLine("3- Atualizar Filme");
                 System.Console.WriteLine("4- Excluir Filme");
-                System.Console.WriteLine("5- Vizualizar Filme");
+                System.Console.WriteLine("5- Visualizar Filme");
                 System.Console.WriteLine("");
                
                 string opcaoUsuario = Console.ReadLine().ToUpper();
@@ -122,7 +122,7 @@ namespace ProjetoCRUD {
                 return "X";
             } 
         }
-        private static void VizualizarFilme()
+        private static void VisualizarFilme()
         {
             System.Console.WriteLine("Informe o ID do Filme: ");
             int idFilme = Convert.ToInt32(Console.ReadLine());
