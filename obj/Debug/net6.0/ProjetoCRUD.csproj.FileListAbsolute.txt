@@ -1,0 +1,15 @@
+C:\workspace\ProjetoCrud\ProjetoCRUD\bin\Debug\net6.0\ProjetoCRUD.exe
+C:\workspace\ProjetoCrud\ProjetoCRUD\bin\Debug\net6.0\ProjetoCRUD.deps.json
+C:\workspace\ProjetoCrud\ProjetoCRUD\bin\Debug\net6.0\ProjetoCRUD.runtimeconfig.json
+C:\workspace\ProjetoCrud\ProjetoCRUD\bin\Debug\net6.0\ProjetoCRUD.dll
+C:\workspace\ProjetoCrud\ProjetoCRUD\bin\Debug\net6.0\ref\ProjetoCRUD.dll
+C:\workspace\ProjetoCrud\ProjetoCRUD\bin\Debug\net6.0\ProjetoCRUD.pdb
+C:\workspace\ProjetoCrud\ProjetoCRUD\obj\Debug\net6.0\ProjetoCRUD.csproj.AssemblyReference.cache
+C:\workspace\ProjetoCrud\ProjetoCRUD\obj\Debug\net6.0\ProjetoCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ProjetoCrud\ProjetoCRUD\obj\Debug\net6.0\ProjetoCRUD.AssemblyInfoInputs.cache
+C:\workspace\ProjetoCrud\ProjetoCRUD\obj\Debug\net6.0\ProjetoCRUD.AssemblyInfo.cs
+C:\workspace\ProjetoCrud\ProjetoCRUD\obj\Debug\net6.0\ProjetoCRUD.csproj.CoreCompileInputs.cache
+C:\workspace\ProjetoCrud\ProjetoCRUD\obj\Debug\net6.0\ProjetoCRUD.dll
+C:\workspace\ProjetoCrud\ProjetoCRUD\obj\Debug\net6.0\ref\ProjetoCRUD.dll
+C:\workspace\ProjetoCrud\ProjetoCRUD\obj\Debug\net6.0\ProjetoCRUD.pdb
+C:\workspace\ProjetoCrud\ProjetoCRUD\obj\Debug\net6.0\ProjetoCRUD.genruntimeconfig.cache
